@@ -1,7 +1,10 @@
 ## Hi there 👋
 - 20卒 サーバ エンジニア
 
-### Skill set💡
+
+<details>
+<summary>Skill set💡</summary>
+  
 - Java
 - C
 - Python
@@ -12,8 +15,11 @@
 - (Arduino)
 - (Go)
 - (Unity (C#))
+</details>
 
-### 資格🌱
+<details>
+<summary>資格🌱</summary>
+
 - 第二種 電気工事士
 - 危険物取扱者 乙種4類
 - 原付き・普通・中型・大型自動車免許
@@ -25,8 +31,11 @@
 - 情報処理安全確保支援士
   - 未登録セキスペ
 - ルービックキュービスト
+</details>
 
-## Favorite🔭
+<details>
+<summary>Favorite🔭</summary>
+
 - 自宅サーバ
 - ネットワーク
   - RTX1100
@@ -38,6 +47,7 @@
 - 資格取得
 - カメラ
 - 車
+</details>
 
 ## SNS💬
 - [Twitter | takunoko](https://twitter.com/takunokko)
