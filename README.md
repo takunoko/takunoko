@@ -50,9 +50,7 @@
 </details>
 
 ## SNS💬
-- [Twitter | takunoko](https://twitter.com/takunokko)
 - [Blog | たくのこWeb](https://www.takunoko.com/)
-- [GitHub | takunoko](https://github.com/takunoko)
 
 <!--
 **takunoko/takunoko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
