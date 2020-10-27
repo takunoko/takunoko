@@ -4,7 +4,7 @@
 
 
 <details>
-<summary>Skill set💡</summary>
+<summary>Skill💡</summary>
   
 - Java
 - C
@@ -19,7 +19,7 @@
 </details>
 
 <details>
-<summary>資格🌱</summary>
+<summary>Qualification🌱</summary>
 
 - 第二種 電気工事士
 - 危険物取扱者 乙種4類
@@ -39,14 +39,21 @@
 
 - 自宅サーバ
 - ネットワーク
-  - RTX1100
-  - RTX1200
-  - Unifi
+  - YAMAHA
+    - [RTX1100](https://network.yamaha.com/products/routers/rtx1100/index)
+    - [RTX1200](https://network.yamaha.com/products/routers/rtx1200/index)
+  - UniFi
+    - Security Gateway ([USG](https://www.ui.com/unifi-routing/usg/))
+    - IN-WALL ([UAP-IW-HD](https://inwall-hd.ui.com/))
+    - SWITCH8 ([US-8-60W](https://www.ui.com/unifi-switching/unifi-switch-8/))
 - IoT
   - ESP32
   - Raspberry Pi
 - 資格取得
 - カメラ
+  - Canon EOS 70D
+    - Canon EF-S18-135mm F3.5-5.6 IS STM
+    - SIGMA 15mm F2.8 EX DG DIAGONAL FISHEYE
 - 車
 </details>
 
