@@ -56,6 +56,7 @@
 [![](https://img.shields.io/badge/GitHub-takunoko-lightgrey)](https://github.com/takunoko)
 [![](https://img.shields.io/badge/YouTube-takunoko-red)](https://www.youtube.com/channel/UC6kNUzyvCZqOqchkNhih2Yg?view_as=subscriber)
 [![](https://img.shields.io/badge/Qiita-takunoko-brightgreen)](https://qiita.com/takunoko)
+[![](https://img.shields.io/badge/Mail-takunoko%40gmail.com-yellow)](mailto:takunoko@gmail.com)
 
 <!--
 **takunoko/takunoko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
