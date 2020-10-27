@@ -51,7 +51,11 @@
 </details>
 
 ## SNS💬
-- [Blog | たくのこWeb](https://www.takunoko.com/)
+[![](https://img.shields.io/badge/Twitter-%E3%81%9F%E3%81%8F%E3%81%AE%E3%81%93-blue)](https://twitter.com/takunokko)
+[![](https://img.shields.io/badge/Blog-%E3%81%9F%E3%81%8F%E3%81%AE%E3%81%93Web-green)](https://www.takunoko.com/)
+[![](https://img.shields.io/badge/GitHub-takunoko-lightgrey)](https://github.com/takunoko)
+[![](https://img.shields.io/badge/YouTube-takunoko-red)](https://www.youtube.com/channel/UC6kNUzyvCZqOqchkNhih2Yg?view_as=subscriber)
+[![](https://img.shields.io/badge/Qiita-takunoko-brightgreen)](https://qiita.com/takunoko)
 
 <!--
 **takunoko/takunoko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
