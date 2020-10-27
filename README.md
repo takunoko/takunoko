@@ -1,5 +1,6 @@
 ## Hi there 👋
-- 20卒 サーバ エンジニア
+![takunoko github stats](https://github-readme-stats.vercel.app/api?username=takunoko)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takunoko&layout=compact)](https://github.com/takunoko/github-readme-stats)
 
 
 <details>
