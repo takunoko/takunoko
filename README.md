@@ -57,7 +57,7 @@
 - 車
 </details>
 
-## SNS💬
+## Contact💬
 [![](https://img.shields.io/badge/Twitter-%E3%81%9F%E3%81%8F%E3%81%AE%E3%81%93-blue)](https://twitter.com/takunokko)
 [![](https://img.shields.io/badge/Blog-%E3%81%9F%E3%81%8F%E3%81%AE%E3%81%93Web-green)](https://www.takunoko.com/)
 [![](https://img.shields.io/badge/GitHub-takunoko-lightgrey)](https://github.com/takunoko)
