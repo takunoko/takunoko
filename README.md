@@ -23,7 +23,7 @@
 
 - 第二種 電気工事士
 - 危険物取扱者 乙種4類
-- 原付き・普通・中型・大型・大型特殊 自動車免許
+- 原付き・普通・中型・大型・大型特殊・牽引 自動車免許
 - 秘書検定 2級
 - 日商簿記 3級
 - 第３級アマチュア無線技士
@@ -33,6 +33,8 @@
 - 情報処理安全確保支援士
   - 未登録セキスペ
 - ルービックキュービスト
+- BBQ検定 初級インストラータ 合格
+- 色彩検定 2級
 </details>
 
 <details>
@@ -47,15 +49,11 @@
     - Security Gateway ([USG](https://www.ui.com/unifi-routing/usg/))
     - IN-WALL ([UAP-IW-HD](https://inwall-hd.ui.com/))
     - SWITCH8 ([US-8-60W](https://www.ui.com/unifi-switching/unifi-switch-8/))
-- IoT
-  - ESP32
-  - Raspberry Pi
 - 資格取得
 - カメラ
   - Canon EOS 70D
     - Canon EF-S18-135mm F3.5-5.6 IS STM
     - SIGMA 15mm F2.8 EX DG DIAGONAL FISHEYE
-- 車
 </details>
 
 ## Contact💬
