@@ -47,6 +47,7 @@
 
 <h3 align="left">🌱 Qualification</h3>
 <h4>IT</h4>
+
 * 基本情報技術者
 * 応用情報技術者
 * ネットワークスペシャリスト
@@ -54,6 +55,7 @@
 * データベーススペシャリスト
  
 <h4>Other</h4>
+
 * 第二種 電気工事士
 * 危険物取扱者 乙種4類
 * 原付き・普通・中型・大型・大型特殊・牽引 自動車免許
@@ -66,6 +68,7 @@
 
 
 <h3 align="left">🔭 Favorite</h3>
+
 * Home Server
   * [WordPress](https://wordpress.com/ja/)
   * [ownCloud](https://owncloud.com/)
